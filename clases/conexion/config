@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "localhost",
+        "user" : "c1970996_aziza",
+        "password" : "gi80wobaVE",
+        "database" : "c1970996_aziza",
+        "port": "3306"
+    }
+}
